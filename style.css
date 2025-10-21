@@ -360,7 +360,7 @@ header {
     border-radius: var(--radius);
     overflow: hidden;
     box-shadow: var(--shadow);
-    height: 800px;
+    height: 600px;
 }
 
 .professor-image img {
